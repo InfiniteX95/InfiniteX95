@@ -1,14 +1,14 @@
 # Hey ! 👋
-I'm a french student learning programming 💻.
+I'm Infinite, a french student who's passionate about everything computer related 💻.
 
-### Languages :
+## 🔧 • Languages :
 - ☕️ Java (GUI apps)
-- ⛓ HTML & CSS (Web dev)
+- ⛓ HTML & CSS (Web)
 - 📝 C# (Console apps)
 - 🐍 Python (Algorithms and scripts)
-> I'm still learning C# !
+> I'm still learning C#
 
-### Interests :
+## 🎨 • Interests :
 - 💾 Computer hardware & software 
 - 📱 Smartphones (particularly Android ones) 
 - 🎮 Video games
