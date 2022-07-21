@@ -37,3 +37,6 @@ I'm Infinite, a french student who's passionate about computer science and engin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InfiniteX95&show_icons=true&theme=github_dark"/>
 </p>
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=InfiniteX95&style=for-the-badge)
