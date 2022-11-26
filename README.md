@@ -1,5 +1,5 @@
 # Hey ! 👋
-I'm Infinite, a french student who's passionate about computer science and engineering 💻.
+I'm Infinite, a french student who's loves computer science 💻 and music 🎹.
 
 ## 🔧 • Languages :
 <p align="center">
@@ -7,6 +7,9 @@ I'm Infinite, a french student who's passionate about computer science and engin
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=OCaml&color=EC6813&logo=OCaml&logoColor=FFFFFF&label="/>
 </p>
 
 ## 🎨 • Interests :
