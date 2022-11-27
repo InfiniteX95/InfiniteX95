@@ -1,5 +1,5 @@
 # Hey ! 👋
-I'm Infinite, a french student who's loves computer science 💻 and music 🎹.
+I'm Infinite, a french student who loves computer science 💻 and music 🎹.
 
 ## 🔧 • Languages :
 <p align="center">
