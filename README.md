@@ -21,19 +21,18 @@ I'm Infinite, a french student who loves computer science 💻 and music 🎹.
 ## ⚙️ • Gear :
 🖥️ Custom Built :
 <p>
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_2600-E4700D?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Opera_GX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD%20Ryzen_7_2700X-E4700D?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Floorp-8763D7?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
 </p>
 
 💻 Laptop :
 <p>
-  <img src="https://img.shields.io/badge/Thinkpad%20P14s%20G2-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thinkpad%20P14s%20G2-E2231A?style=for-the-badge&logo=thinkpad&logoColor=white"/>
   <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5850U-E4700D?style=for-the-badge&logo=amd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Floorp-8763D7?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
 </p>
 
 ## 📈 • Stats :
